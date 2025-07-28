@@ -12,7 +12,11 @@ This is a **Vue 3 + Vite** photo watermark tool project.
 
 ## 运行
 
-#安装相关插件工具
-npm i #运行命令，本地打开项目页面
-npm run dev #项目打包
-npm run build
+- #安装相关插件工具
+- `npm i `
+
+- #运行命令，本地打开项目页面
+- `npm run dev `
+
+- #项目打包
+- `npm run build`
